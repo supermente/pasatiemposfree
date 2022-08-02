@@ -1,5 +1,7 @@
 #EXTM3U 
 
+#EXTM3U 
+
 #EXTINF:0,-CHILE-
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/B/Bandera_de_Chile-logo-737C42BD6B-seeklogo.com.png" group-title="CHILE" ,•●★-- CHILE --★●•
@@ -32,7 +34,7 @@ https://unlimited2-cl.dps.live/tctc/tctc.smil/tctc/livestream1/chunks.m3u8
 http://unlimited1-cl.dps.live/cnn/cnn.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/984897951024713729/HyC8AIMf.jpg" group-title="CHILE" ,Santiago Tv
 https://stv.janus.cl/playlist/stream.m3u8
-#EXTINF:-1 tvg-logo="https://eternalmetal.cl/wp-content/uploads/2022/06/imagen_2022-06-22_204801204.png" group-title="ETERNAL METAL", ETERNAL METAL
+#EXTINF:-1 tvg-logo="https://eternalmetal.cl/wp-content/uploads/2022/06/imagen_2022-06-22_204801204.png" group-title="CHILE", ETERNAL METAL
 https://vdo.panelstreaming.live:3351/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/logo_15220774751.png" group-title="CHILE", Tendencias TV 
 https://v2.tustreaming.cl/tendenciastv/live1/index.m3u8
@@ -1138,7 +1140,7 @@ http://haititivi.com:8088/haititv/tele6NY/index.m3u8
 
 #EXTINF:-1 tvg-logo="http://bpic.588ku.com/element_origin_min_pic/16/11/04/5d9c66c598ee84d2ec579ead42eab6f7.jpg" group-title="MUSICA" ,•●★-- MUSICA --★●•
 http://cdn.metacafe.com/videos/11530000/11530490/11530490_720p.m3u8
-#EXTINF:-1 tvg-logo="https://eternalmetal.cl/wp-content/uploads/2022/06/imagen_2022-06-22_204801204.png" group-title="ETERNAL METAL", ETERNAL METAL
+#EXTINF:-1 tvg-logo="https://eternalmetal.cl/wp-content/uploads/2022/06/imagen_2022-06-22_204801204.png" group-title="MUSICA", ETERNAL METAL
 https://vdo.panelstreaming.live:3351/hybrid/play.m3u8
 #EXTINF:-1 tvg-logo="http://www.chileiptv.cl/img/logos/sinlogo.png" group-title="MUSICA" , Dj Pinky Tv 
 https://593d7fe3c9b0d.streamlock.net:443/8114/8114/playlist.m3u8
@@ -1341,7 +1343,7 @@ https://ia800501.us.archive.org/34/items/DJPanduroVideoYearmix2014/DJ%20Panduro%
 https://ia600505.us.archive.org/5/items/DJPanduroVideoYearmix2015/DJ%20Panduro%20-%20Video%20Yearmix%202015.mp4
 #EXTINF:0 tvg-logo="http://www.kodinerds.net/index.php/Attachment/9910-Music-Video-Mix-png/?thumbnail=1" group-title="VIDEOMIX",Megamix Central
 https://ia801508.us.archive.org/27/items/rapido_201511/PitchPerfection-SongsMashupByMegamixCentral.mp4
-#EXTINF:-1 tvg-logo="https://eternalmetal.cl/wp-content/uploads/2022/06/imagen_2022-06-22_204801204.png" group-title="ETERNAL METAL", ETERNAL METAL
+#EXTINF:-1 tvg-logo="https://eternalmetal.cl/wp-content/uploads/2022/06/imagen_2022-06-22_204801204.png" group-title="VIDEOMIX", ETERNAL METAL
 https://vdo.panelstreaming.live:3351/hybrid/play.m3u8
 #EXTINF:0,-RADIOTV-
 
@@ -1714,3 +1716,7 @@ http://50.30.37.36:1935/live/smil:MyStream.smil/playlist.m3u8?iptvgratis?chile.m
 http://184.164.158.202:1936/48/smil:48.smil/playlist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 tvg-logo="http://1.bp.blogspot.com/-O1lvn7ixI3I/VezDtfKka6I/AAAAAAAADGM/KeEL0qq9Ng8/s1600/advenir.JPG" group-title="RELIGION",Red Advenir
 http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/playlist.m3u8?iptvgratis?chile.m3u8
+
+
+
+
