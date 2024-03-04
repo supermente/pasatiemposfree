@@ -2,14 +2,6 @@ group,General
 ext,1+1 (1080p),https://ythls.armelin.one/channel/UCVEaAWKfv7fE1c-ZuBs7TKQ.m3u8
 ext,1Almere TV (720p),https://d3472rjicrodic.cloudfront.net/nlpo/clr-nlpo/709d5260/index.m3u8
 ext,1TV (720p),https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
-#EXTINF:-1,24 Horas HD
-http://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?xtreamiptv.m3u8
-#EXTINF:-1,Ahora Noticias HD
-http://mdstrm.com/live-stream-playlist/561430ae330428c223687e1e.m3u8?xtreamiptv.m3u8
-#EXTINF:-1,Santiago Tv
-https://stv.janus.cl/playlist/stream.m3u8
-#EXTINF:-1,ETERNAL METAL
-https://vdo.panelstreaming.live:3261/hybrid/play.m3u8
 ext,1Twente TV (1080p),https://ms2.mx-cd.net/dtv-10/198-989148/1Twente_TV.smil/playlist.m3u8
 ext,002 Radio TV (720p),https://cdn.002radio.com:3909/live/radio002live.m3u8
 2MMonde.ma,2M Monde (360p),https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8
