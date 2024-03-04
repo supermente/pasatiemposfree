@@ -766,17 +766,3 @@ https://premium.tvcontrolcp.com:19360/sonidonazaret/sonidonazaret.m3u8?PlaylistM
 #EXTINF:-1 tvg-id="1384" tvg-name="Metanoia TV" tvg-logo="https://cdn.m3u.cl/logo/1384_Metanoia_TV.png", Metanoia TV | CL
 https://6362ca6f1fc28.streamlock.net/8140/8140/playlist.m3u8?PlaylistM3UCL
 #EXTINF:-1 tvg-id="1390" tvg-name="TV Emanuel" tvg-logo="https://cdn.m3u.cl/logo/1390_TV_Emanuel.png", TV Emanuel | CL
-https://Stmv5.voxtvhd.com.br/ministerioemanuel/ministerioemanuel/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1399" tvg-name="IPNA Medio" tvg-logo="https://cdn.m3u.cl/logo/1399_IPNA_Medio.png", IPNA Medio | CL
-https://paneltv.online:1936/8184/8184/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1412" tvg-name="Enlace BPB" tvg-logo="https://cdn.m3u.cl/logo/1412_Enlace_BPB.png", Enlace BPB | CL
-https://v1.tustreaming.cl/enlacebpbtv/index.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="173" tvg-name="Escuchame Radio" tvg-logo="https://cdn.m3u.cl/logo/173_Escuchame_Radio.png", Escuchame Radio | CL
-https://stmv5.voxtvhd.com.br/escuchame/escuchame/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1480" tvg-name="Fortaleza Radio" tvg-logo="https://cdn.m3u.cl/logo/1480_Fortaleza_Radio.png", Fortaleza Radio | CL
-https://live.tvcontrolcp.com:1936/fortalezatv/fortalezatv/playlist.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1479" tvg-name="Fortaleza TV" tvg-logo="https://cdn.m3u.cl/logo/1479_Fortaleza_TV.png", Fortaleza TV | CL
-https://multimedia.fortalezatv.cl/video/video.m3u8?PlaylistM3UCL
-#EXTINF:-1 tvg-id="1514" tvg-name="CESTV" tvg-logo="https://cdn.m3u.cl/logo/1514_CESTV.png", CESTV | CL
-https://stmv5.voxtvhd.com.br/cestv/cestv/playlist.m3u8?PlaylistM3UCL
-https://stmv5.voxtvhd.com.br/cestv/cestv/playlist.m3u8?PlaylistM3UCL
